@@ -1,6 +1,6 @@
 # Simulating UBI Policy Impacts
 
-Universal basic income (UBI) has been proposed as a potential solution some of the biggest threats faced by modern workers: wage inequality, job insecurity – and the looming possibility of AI-induced job losses. However, the feasibility and relative benefits of such a program is highly dependent on existing taxation and benefit policies.
+Universal basic income (UBI) has been proposed as a potential solution some of the biggest threats faced by modern workers: wage inequality, job insecurity – and the looming possibility of AI-induced job losses. However, the feasibility and relative benefits of such a program is highly dependent on existing taxation and benefit policies. In this project, we will collect data on tax policies for a region of interest and develop an R Shiny app to simulate different taxation paradigms.
 
 <img src="project-card.png" width="400">
 
